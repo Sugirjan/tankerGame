@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- basedir -->
+	<basedir path="res/images/" />
+	<!-- sounds -->
+	<!-- songs -->
+	<!-- images -->
+	
+	
+	<image key="background" file="background.jpg" />
+	<image key="grid" 	file="grid.png"/>
+	<image key="coin" 	file="coin.png"/>
+	<image key="brick" 	file="brick.png"/>
+	<image key="stone" 	file="stone.png"/>
+	<image key="water" 	file="water.png"/>
+	<image key="lifepack" 	file="lifepack.png"/>
+	<image key="up" 	file="up.png"/>
+	<image key="down" 	file="down.png"/>
+	<image key="left" 	file="left.png"/>
+	<image key="right" 	file="right.png"/>
+	<!-- sheets -->
+	<!-- fonts -->
+</resources>
